@@ -11,7 +11,7 @@ Fist, we will focus on the following species:
 
 * *Agkistrodon piscivorus*
 
-![Agkistrodon piscivorus**](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Florida_Water_Moccasin_056.jpg/220px-Florida_Water_Moccasin_056.jpgg)
+![Agkistrodon piscivorus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Florida_Water_Moccasin_056.jpg/220px-Florida_Water_Moccasin_056.jpg)
 
 
 * *Nerodia sipedon*
