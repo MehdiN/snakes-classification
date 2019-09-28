@@ -3,7 +3,7 @@
 This repository has for aim to propose an algorithm to classify
 between differents species of snakes.
 
-Fist, we will focus on the following species:
+Fist, we will try to differentiate on the following species as they share a common geographical range:
 
 * *Agkistrodon contortrix*
 
